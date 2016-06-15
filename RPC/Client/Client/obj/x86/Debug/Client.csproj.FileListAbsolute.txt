@@ -1,0 +1,44 @@
+D:\Projects\C# Projects\RPC\Client\Client\bin\Debug\Client.exe
+D:\Projects\C# Projects\RPC\Client\Client\bin\Debug\Client.pdb
+D:\Projects\C# Projects\RPC\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\RPC\Client\Client\obj\x86\Debug\Client.Form1.resources
+D:\Projects\C# Projects\RPC\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Projects\C# Projects\RPC\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\RPC\Client\Client\obj\x86\Debug\Client.exe
+D:\Projects\C# Projects\RPC\Client\Client\obj\x86\Debug\Client.pdb
+D:\Projects\C# Projects\RPC\Client\Client\bin\Debug\SubjectServer.dll
+D:\Projects\C# Projects\RPC\Client\Client\bin\Debug\SubjectServer.pdb
+D:\Projects\C# Projects\RPC\Client\Client\bin\Debug\TimerServer.dll
+D:\Projects\C# Projects\RPC\Client\Client\bin\Debug\TimerServer.pdb
+D:\Projects\C# Projects\RPC\Client\Client\bin\Debug\TimerCurrent.dll
+D:\Projects\C# Projects\RPC\Client\Client\bin\Debug\TimerCurrent.pdb
+C:\Users\eric\Desktop\RPC\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\eric\Desktop\RPC\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\Client.exe
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\Client.pdb
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\ObserverClient.dll
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\SubjectServer.dll
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\TimerCurrent.dll
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\TimerServer.dll
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\ObserverClient.pdb
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\SubjectServer.pdb
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\TimerCurrent.pdb
+C:\Users\eric\Desktop\RPC\Client\Client\bin\Debug\TimerServer.pdb
+C:\Users\eric\Desktop\RPC\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\eric\Desktop\RPC\Client\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\eric\Desktop\RPC\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\eric\Desktop\RPC\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ericson\Desktop\RPC\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\ericson\Desktop\RPC\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\ericson\Desktop\RPC\Client\Client\bin\Debug\Client.exe
+C:\Users\ericson\Desktop\RPC\Client\Client\bin\Debug\Client.pdb
+C:\Users\ericson\Desktop\RPC\Client\Client\bin\Debug\SubjectServer.dll
+C:\Users\ericson\Desktop\RPC\Client\Client\bin\Debug\TimerCurrent.dll
+C:\Users\ericson\Desktop\RPC\Client\Client\bin\Debug\TimerServer.dll
+C:\Users\ericson\Desktop\RPC\Client\Client\bin\Debug\SubjectServer.pdb
+C:\Users\ericson\Desktop\RPC\Client\Client\bin\Debug\TimerCurrent.pdb
+C:\Users\ericson\Desktop\RPC\Client\Client\bin\Debug\TimerServer.pdb
+C:\Users\ericson\Desktop\RPC\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ericson\Desktop\RPC\Client\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ericson\Desktop\RPC\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ericson\Desktop\RPC\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache

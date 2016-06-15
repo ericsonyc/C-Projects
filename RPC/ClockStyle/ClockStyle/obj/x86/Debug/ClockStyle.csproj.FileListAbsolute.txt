@@ -1,0 +1,15 @@
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\bin\Debug\ClockStyle.exe
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\bin\Debug\ClockStyle.pdb
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\obj\x86\Debug\ClockStyle.Form1.resources
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\obj\x86\Debug\ClockStyle.Properties.Resources.resources
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\obj\x86\Debug\ClockStyle.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\obj\x86\Debug\ClockStyle.exe
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\obj\x86\Debug\ClockStyle.pdb
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\obj\x86\Debug\ClockStyle.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\obj\x86\Debug\ClockStyle.UserControl1.resources
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\bin\Debug\TimerCurrent.dll
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\bin\Debug\TimerServer.dll
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\bin\Debug\SubjectServer.dll
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\bin\Debug\TimerCurrent.pdb
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\bin\Debug\TimerServer.pdb
+D:\Projects\C# Projects\RPC\ClockStyle\ClockStyle\bin\Debug\SubjectServer.pdb

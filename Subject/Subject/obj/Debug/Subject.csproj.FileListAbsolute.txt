@@ -1,0 +1,5 @@
+D:\Projects\C# Projects\Subject\Subject\obj\Debug\Subject.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\Subject\Subject\bin\Debug\Subject.dll
+D:\Projects\C# Projects\Subject\Subject\bin\Debug\Subject.pdb
+D:\Projects\C# Projects\Subject\Subject\obj\Debug\Subject.dll
+D:\Projects\C# Projects\Subject\Subject\obj\Debug\Subject.pdb

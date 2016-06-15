@@ -1,0 +1,6 @@
+D:\Projects\C# Projects\RPC\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+D:\Projects\C# Projects\RPC\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+D:\Projects\C# Projects\RPC\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+D:\Projects\C# Projects\RPC\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+C:\Users\ericson\Desktop\RPC\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+C:\Users\ericson\Desktop\RPC\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb

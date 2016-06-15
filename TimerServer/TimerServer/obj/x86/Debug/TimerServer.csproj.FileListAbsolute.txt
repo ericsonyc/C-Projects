@@ -1,0 +1,8 @@
+D:\Projects\C# Projects\TimerServer\TimerServer\bin\Debug\TimerServer.exe
+D:\Projects\C# Projects\TimerServer\TimerServer\bin\Debug\TimerServer.pdb
+D:\Projects\C# Projects\TimerServer\TimerServer\obj\x86\Debug\TimerServer.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\TimerServer\TimerServer\obj\x86\Debug\TimerServer.Form1.resources
+D:\Projects\C# Projects\TimerServer\TimerServer\obj\x86\Debug\TimerServer.Properties.Resources.resources
+D:\Projects\C# Projects\TimerServer\TimerServer\obj\x86\Debug\TimerServer.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\TimerServer\TimerServer\obj\x86\Debug\TimerServer.exe
+D:\Projects\C# Projects\TimerServer\TimerServer\obj\x86\Debug\TimerServer.pdb

@@ -1,0 +1,20 @@
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\bin\Debug\TimerServer.dll
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\bin\Debug\TimerServer.pdb
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\obj\Debug\TimerServer.dll
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\obj\Debug\TimerServer.pdb
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\obj\Debug\TimerServer.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\bin\Debug\SubjectServer.dll
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\bin\Debug\ObserverClient.dll
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\bin\Debug\SubjectServer.pdb
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\bin\Debug\ObserverClient.pdb
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\bin\Debug\TimerCurrent.dll
+D:\Projects\C# Projects\RPC\TimerServer\TimerServer\bin\Debug\TimerCurrent.pdb
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\bin\Debug\TimerServer.dll
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\bin\Debug\TimerServer.pdb
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\bin\Debug\SubjectServer.dll
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\bin\Debug\TimerCurrent.dll
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\bin\Debug\SubjectServer.pdb
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\bin\Debug\TimerCurrent.pdb
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\obj\Debug\TimerServer.csprojResolveAssemblyReference.cache
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\obj\Debug\TimerServer.dll
+C:\Users\ericson\Desktop\RPC\TimerServer\TimerServer\obj\Debug\TimerServer.pdb

@@ -1,0 +1,4 @@
+D:\Projects\C# Projects\Observer\Observer\bin\Debug\Observer.dll
+D:\Projects\C# Projects\Observer\Observer\bin\Debug\Observer.pdb
+D:\Projects\C# Projects\Observer\Observer\obj\Debug\Observer.dll
+D:\Projects\C# Projects\Observer\Observer\obj\Debug\Observer.pdb

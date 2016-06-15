@@ -1,0 +1,5 @@
+D:\Projects\C# Projects\RPC\ObserverClient\ObserverClient\bin\Debug\ObserverClient.dll
+D:\Projects\C# Projects\RPC\ObserverClient\ObserverClient\bin\Debug\ObserverClient.pdb
+D:\Projects\C# Projects\RPC\ObserverClient\ObserverClient\obj\Debug\ObserverClient.dll
+D:\Projects\C# Projects\RPC\ObserverClient\ObserverClient\obj\Debug\ObserverClient.pdb
+D:\Projects\C# Projects\RPC\ObserverClient\ObserverClient\obj\Debug\ObserverClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Projects\C# Projects\RPC\ClockControl\ClockControl\obj\Debug\ClockControl.PointClock.resources
+D:\Projects\C# Projects\RPC\ClockControl\ClockControl\obj\Debug\ClockControl.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\RPC\ClockControl\ClockControl\bin\Debug\ClockControl.dll
+D:\Projects\C# Projects\RPC\ClockControl\ClockControl\bin\Debug\ClockControl.pdb
+D:\Projects\C# Projects\RPC\ClockControl\ClockControl\obj\Debug\ClockControl.dll
+D:\Projects\C# Projects\RPC\ClockControl\ClockControl\obj\Debug\ClockControl.pdb

@@ -1,0 +1,18 @@
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\obj\Debug\TimerCurrent.csprojResolveAssemblyReference.cache
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\bin\Debug\TimerCurrent.dll
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\bin\Debug\TimerCurrent.pdb
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\bin\Debug\SubjectServer.dll
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\bin\Debug\TimerServer.dll
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\bin\Debug\SubjectServer.pdb
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\bin\Debug\TimerServer.pdb
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\obj\Debug\TimerCurrent.dll
+D:\Projects\C# Projects\RPC\TimerCurrent\TimerCurrent\obj\Debug\TimerCurrent.pdb
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\bin\Debug\TimerCurrent.dll
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\bin\Debug\TimerCurrent.pdb
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\bin\Debug\SubjectServer.dll
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\bin\Debug\TimerServer.dll
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\bin\Debug\SubjectServer.pdb
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\bin\Debug\TimerServer.pdb
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\obj\Debug\TimerCurrent.csprojResolveAssemblyReference.cache
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\obj\Debug\TimerCurrent.dll
+C:\Users\ericson\Desktop\RPC\TimerCurrent\TimerCurrent\obj\Debug\TimerCurrent.pdb
